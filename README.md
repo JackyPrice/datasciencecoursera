@@ -1,2 +1,2 @@
-# datasciencecoursera-repo
+# datasciencecoursera
 Week 4 repo
